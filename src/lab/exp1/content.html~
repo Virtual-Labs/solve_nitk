@@ -391,7 +391,7 @@ Look at the few of the real systems shown below,try to make suitable assumptions
 
 An aircraft wing as a cantilever beamAn atomic force probe 
 
-<img src="../images/im2.jpg">
+<img src="../images/im.jpg">
 <img src="../images/im1.jpg">
 
 
@@ -1055,6 +1055,7 @@ mso-fareast-font-family:"Times New Roman";}
                             • Balco (rare)<br>
                             • Tungsten (rare)<br>
                             <br>
+			</section>
  
 
                 <section id="experiment-article-section-4">
@@ -1076,7 +1077,10 @@ mso-fareast-font-family:"Times New Roman";}
                         </div>
                     </div>
 
-			
+			<div> EXPLAIN for talking tutorial <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="600" width="800"><param name="quality" value="high" /><param name="movie" value="/images/flash/Mechanical/MDV/SDOF/Free/Cantilever/ExpN/FreeVibrationSDOF_expN_ver2.swf" />
+<embed height="600" pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="./FreeVibrationSDOF_expN_ver2.swf" type="application/x-shockwave-flash" width="800"></embed>
+</object>
+</div>
 
 
                 </section>
@@ -1471,7 +1475,7 @@ Case 3:   = Damping Coefficient > 1 (Overdamped Systems.)
                             style=
                             'font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'>&nbsp;</span></p>
 
-                            
+                       </section>
 
                     <div class="heading" id=
                     "experiment-article-section-6-heading">
